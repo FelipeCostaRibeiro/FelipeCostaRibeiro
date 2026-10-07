@@ -1,6 +1,6 @@
 # Hi, I'm Felipe 👋
 
-**AI Software Developer** focused on back end and LLM-powered applications. Based in Rio Grande do Sul, Brazil, working remotely.
+**AI Software Developer** focused on back end and LLM-powered applications. Based in Rio Grande do Sul, Brazil.
 
 I build APIs and data pipelines that connect LLMs to real business data, from semantic search with RAG to real-time chat services.
 
@@ -19,7 +19,7 @@ I build APIs and data pipelines that connect LLMs to real business data, from se
 - **Back end:** Python, FastAPI, REST APIs, WebSockets, SQLAlchemy
 - **Data & AI:** PostgreSQL + pgvector, Supabase, Retrieval-Augmented Generation (RAG), LLMs, intent classification
 - **Security:** authentication, access control, rate/abuse protection, PII filtering with Microsoft Presidio
-- **Tooling:** Docker, Git/GitHub, unit testing, deployment on Render
+- **Tooling:** Docker, Git/GitHub, unit testing
 
 ## 🚀 Featured work
 
