@@ -1,6 +1,6 @@
 # Hi, I'm Felipe 👋
 
-**AI Software Developer** focused on back end and LLM-powered applications. Based in Rio Grande do Sul, Brazil.
+**Software Developer** focused on back end and LLM-powered applications. Based in Rio Grande do Sul, Brazil.
 
 I build APIs and data pipelines that connect LLMs to real business data, from semantic search with RAG to real-time chat services.
 
