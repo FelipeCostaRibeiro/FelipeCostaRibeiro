@@ -1,3 +1,4 @@
+🇺🇸 [English](README.md) | 🇧🇷 [Português](README.pt-BR.md)
 # Hi, I'm Felipe 👋
 
 **Software Developer** focused on back end and LLM-powered applications. Based in Rio Grande do Sul, Brazil.
