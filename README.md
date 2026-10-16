@@ -1,4 +1,5 @@
 🇺🇸 [English](README.md) | 🇧🇷 [Português](README.pt-BR.md)
+
 # Hi, I'm Felipe 👋
 
 **Software Developer** focused on back end and LLM-powered applications. Based in Rio Grande do Sul, Brazil.
@@ -33,6 +34,14 @@ A personal AI assistant that can run terminal commands on its own, with safety l
 - Async streaming responses, cross-platform shell (PowerShell on Windows, `/bin/sh` on Linux/macOS) and multi-model access through OpenRouter
 
 `Python` `asyncio` `OpenAI SDK` `LangChain` `OpenRouter` `DeepSeek` `Pydantic` `React` `TypeScript` `Vite`
+
+### [Composition Visualizer](https://github.com/FelipeCostaRibeiro/Composition-Visualizer)
+Machine learning project with real-time object detection from the webcam, paired with a side panel that identifies and shows its internal components. 
+- **Computer vision:** YOLOv8 pretrained on the COCO dataset (80 classes), filtered down to only the classes registered in the app
+- **Knowledge base:** a JSON file maps each detected object to its components and component images
+- **Real-time UI:** OpenCV window with bounding boxes and a component panel that updates as objects enter the frame
+
+`Python` `OpenCV` `Ultralytics YOLO` `NumPy`
 
 ### AI Shopping Chatbot (RAG) — private repository
 Built with a team for a real client during the TIC55 Residency (Unisinos / BRISA).
