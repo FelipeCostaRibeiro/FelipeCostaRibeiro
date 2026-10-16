@@ -40,6 +40,13 @@ Um assistente de IA pessoal que executa comandos de terminal por conta própria,
 
 `Python` `asyncio` `OpenAI SDK` `LangChain` `OpenRouter` `DeepSeek` `Pydantic` `React` `TypeScript` `Vite`
 
+### [Composition Visualizer](https://github.com/FelipeCostaRibeiro/Composition-Visualizer)
+Projeto de Machine Learning com detecção de objetos em tempo real via webcam, acompanhado de um painel lateral que identifica e exibe os componentes internos do objeto.
+- **Visão computacional:** YOLOv8 pré-treinado no conjunto de dados COCO (80 classes), filtrado para incluir apenas as classes registradas no aplicativo.
+- **Base de conhecimento:** um arquivo JSON mapeia cada objeto detectado aos seus respectivos componentes e imagens desses componentes.
+- **Interface em tempo real:** janela do OpenCV com caixas delimitadoras (*bounding boxes*) e um painel de componentes que é atualizado à medida que os objetos entram no enquadramento.
+
+`Python` `OpenCV` `Ultralytics YOLO` `NumPy`
 
 ### Chatbot de Compras com IA (RAG) — repositório privado
 Desenvolvido em equipe para um cliente real durante a Residência TIC55 (Unisinos / BRISA).
